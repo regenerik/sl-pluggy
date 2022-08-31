@@ -1,6 +1,6 @@
 org: regenerik
 app: pluggy
-service: pluggy
+service: pluggy-service
 frameworkVersion: '3'
 
 provider:
